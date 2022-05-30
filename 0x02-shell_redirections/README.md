@@ -26,3 +26,4 @@ Display the number of lines that contain the pattern “bin” in the file /etc/
     include capital letters as well
 
  19. Replace all characters A and c from input to Z and e respectively.
+ 20. Create a script that removes all letters c and C from input.
