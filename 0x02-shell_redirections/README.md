@@ -25,3 +25,4 @@ Display the number of lines that contain the pattern “bin” in the file /etc/
 
     include capital letters as well
 
+ 19. Replace all characters A and c from input to Z and e respectively.
