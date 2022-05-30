@@ -41,3 +41,4 @@ Display the number of lines that contain the pattern “bin” in the file /etc/
     You are not allowed to use basename, grep, egrep, fgrep or rgrep
 
 24. Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+ 25. Create a script that decodes acrostics that use the first letter of each line.
