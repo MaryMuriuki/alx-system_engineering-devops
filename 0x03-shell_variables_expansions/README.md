@@ -6,3 +6,4 @@ This projects list of activities
  5. Create a script that lists environment variables.
  6. A script that lists all local variables and environment variables, and functions.
  7. Create a script that creates a new local variable.
+ 8. Create a script that creates a new global variable.
